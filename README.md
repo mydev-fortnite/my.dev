@@ -8,12 +8,12 @@ please give credit while using this on any form of content (video, screenshots, 
 ## Legal
 To protect the My.Dev™ name we have put a few notices here to keep us the mydev that we are now!<br>
 
-For our name:<br><br>  
+For our name:<br>
 My.Dev are a registered trademark owned by slushy *retained name*<br>
 slushy also claims trademark rights in the following: mydev, medev, youdev.<br>
 any unauthorized use is expressly prohibited<br><br> 
 
-For **All** our Projects:<br><br> 
+For **All** our Projects:<br>
 MIT License
 
 Copyright (c) 2022 My.Dev
