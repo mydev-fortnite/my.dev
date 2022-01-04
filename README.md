@@ -10,7 +10,7 @@ To protect the My.Dev™ name we have put a few notices here to keep us the myde
 
 **For our name:**<br>
 My.Dev are a registered trademark owned by slushy *retained name*<br>
-slushy also claims trademark rights in the following: mydev, medev, youdev.<br>
+slushy also claims trademark rights in the following: mydev, medev, youdev, mefn, youfn.<br>
 any unauthorized use is expressly prohibited<br><br> 
 
 **For All our Projects:**<br>
